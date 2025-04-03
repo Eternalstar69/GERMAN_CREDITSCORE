@@ -38,7 +38,6 @@ pip install numpy pandas matplotlib scikit-learn
 
 ### **README.md**  
 
-```md
 # German Credit Risk Classification Using Machine Learning
 
 ## Project Description
