@@ -29,7 +29,7 @@ The goal is to **predict whether a customer is a good or bad credit risk** based
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 To run this project, install the required dependencies:
 
@@ -44,13 +44,13 @@ Here’s a full **README.md** file for your GitHub repository:
 ```md
 # German Credit Risk Classification Using Machine Learning
 
-## 📌 Project Description
+## Project Description
 
 This project applies machine learning techniques to classify credit risk using the **German Credit Dataset**. The dataset contains various financial and personal attributes of individuals applying for credit. 
 
 The goal is to **predict whether a customer is a good or bad credit risk** based on their financial history, employment status, and other factors.
 
-## 📂 Dataset Information
+## Dataset Information
 
 - **Dataset Name:** German Credit Dataset  
 - **File Location:** `dataset/german.data`  
@@ -73,7 +73,7 @@ The goal is to **predict whether a customer is a good or bad credit risk** based
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 To run this project, install the required dependencies:
 
@@ -108,7 +108,7 @@ The script will:
 
 ---
 
-## 🔎 Data Preprocessing Steps
+## Data Preprocessing Steps
 
 - **Outlier Detection & Removal**: Using the IQR method to filter extreme values.  
 - **Feature Scaling**: Applying logarithmic transformation to numerical features.  
@@ -117,7 +117,7 @@ The script will:
 
 ---
 
-## ⚙️ Machine Learning Models
+## Machine Learning Models
 
 Two classification models were trained and tested:
 
@@ -131,7 +131,7 @@ Two classification models were trained and tested:
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 Each model was evaluated using four metrics:
 
@@ -146,7 +146,7 @@ Each model was evaluated using four metrics:
 
 ---
 
-## 📌 Results & Key Findings
+## Results & Key Findings
 
 - **Feature selection helped improve model performance** by reducing irrelevant data.  
 - **Logistic Regression performed better/worse** than SVM in terms of accuracy and recall.  
@@ -154,7 +154,7 @@ Each model was evaluated using four metrics:
 
 ---
 
-## 📝 Author & Credits
+## Author & Credits
 
 - **Author:** Your Name  
 - **GitHub:** [Your Profile](https://github.com/your-username)  
@@ -164,7 +164,7 @@ Each model was evaluated using four metrics:
 
 ---
 
-## ✅ Future Improvements
+## Future Improvements
 
 - Experiment with different feature selection techniques.  
 - Tune hyperparameters for better model performance.  
