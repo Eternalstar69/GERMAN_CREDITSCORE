@@ -33,11 +33,8 @@ The goal is to **predict whether a customer is a good or bad credit risk** based
 
 To run this project, install the required dependencies:
 
-```bash
 pip install numpy pandas matplotlib scikit-learn
-Here’s a full **README.md** file for your GitHub repository:  
 
----
 
 ### **README.md**  
 
@@ -77,9 +74,7 @@ The goal is to **predict whether a customer is a good or bad credit risk** based
 
 To run this project, install the required dependencies:
 
-```bash
 pip install numpy pandas matplotlib scikit-learn
-```
 
 Make sure you have the dataset in the `dataset/` directory before running the script.
 
@@ -87,17 +82,14 @@ Make sure you have the dataset in the `dataset/` directory before running the sc
 ## How to Run the Code
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/Eternalstar69/GERMAN_CREDITSCORE.git
    cd GERMAN_CREDITSCORE
-   ```
 
 2. Ensure the dataset file `german.data` is placed inside the `dataset/` folder.
 
 3. Run the Python script:
-   ```bash
    python script_name.py
-   ```
+
 
 The script will:
 - Load and preprocess the dataset
@@ -106,7 +98,6 @@ The script will:
 - Apply feature selection
 - Train and evaluate two models: **Logistic Regression** and **Support Vector Machine (SVM)**
 
----
 
 ## Data Preprocessing Steps
 
